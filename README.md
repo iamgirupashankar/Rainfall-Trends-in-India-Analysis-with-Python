@@ -92,6 +92,6 @@ This repository adheres to the MIT License framework. For details, consult the [
 
 ## Contact Information
 
-For scholarly inquiries or constructive feedback, please contact Girupa Shankar.
+For scholarly inquiries or constructive feedback, please contact Girupa Shankar [iamguripashankar@gmail.com].
 
 ---
